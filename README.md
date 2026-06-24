@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **DSA,Java,SpringBoot,**
 
-- 📫 How to reach me **naveenkumarkota97@gmail.com**
+- 📫 How to reach me **nreddy70833@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
